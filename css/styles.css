@@ -1,0 +1,23 @@
+img.main {
+  float: left;
+}
+img {
+  width: 25%;
+}
+.left {
+  float: left;
+  padding-right: 20px;
+}
+.right {
+  float: right;
+  padding-left: 20px;
+}
+.sidebar {
+  float: right;
+  height: 1000px;
+  width: 25%;
+  background-color: #E1BEE7;
+}
+.main {
+  background-color: #B2EBF2;
+}
